@@ -43,7 +43,7 @@ This project was developed and tested on Linux systems. It uses only allowed C s
 Clone the repository and compile with the provided Makefile:
 
 ```bash
-git clone https://github.com/YourUsername/ft_printf.git
+git clone https://github.com/PedroLouzada/ft_printf.git
 cd ft_printf
 make
 ```
